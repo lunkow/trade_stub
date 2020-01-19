@@ -1,0 +1,17 @@
+@import "variabes";
+/*
+300 is light (if your font supports it)
+400 is regular
+500 is medium
+600 is semibold
+700 is bold
+800 is ExtraBold
+
+You can't use the numbers in between. font-weight works from 100 to 900 in increments of 100.
+Normal weight is 400
+*/
+
+@import "fonts";
+@import "main";
+
+@import "media";
